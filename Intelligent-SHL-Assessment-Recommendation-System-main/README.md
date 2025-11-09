@@ -46,8 +46,7 @@ User Query → Embedding → FAISS Search (Top 20) → LLM Re-ranking → Final 
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/UTSAVS26/Intelligent-SHL-Assessment-Recommendation-System.git
+
    cd shl-recommender
    ```
 
@@ -303,26 +302,5 @@ The system is optimized for:
 - `.env` file included in `.gitignore`
 - CORS configured for frontend access
 
-## 📄 License
 
-[Specify your license here]
-
-## 👥 Contributing
-
-[Add contribution guidelines if applicable]
-
-## 📧 Contact
-
-[Add contact information]
-
-## 🙏 Acknowledgments
-
-- SHL for providing the assessment catalog
-- Groq for fast LLM inference
-- Sentence Transformers for embeddings
-- FAISS for efficient vector search
-
----
-
-**Built with ❤️ using Python, FastAPI, Streamlit, and Groq AI**
 
