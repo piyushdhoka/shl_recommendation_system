@@ -1,6 +1,8 @@
+
 # Intelligent SHL Assessment Recommendation System
 
 An AI-powered recommendation system that helps hiring managers find the most relevant SHL assessments for their hiring needs using Retrieval-Augmented Generation (RAG) architecture.
+[Architecture (ARCH.md)](ARCH.md)
 
 ## 🎯 Overview
 
